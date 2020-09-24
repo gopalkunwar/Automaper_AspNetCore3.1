@@ -6,11 +6,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace API.AutoMapper
+namespace API.Profiles
 {
-    public class Mapping:Profile
+    public class AutoMapping:Profile
     {
-        public Mapping()
+        public AutoMapping()
         {
             //Source to Destination Mapping
             CreateMap<Car, CarReadDto>();
