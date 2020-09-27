@@ -1,4 +1,4 @@
-# Automaper_AspNetCore3.1
+# Implementing Automaper in Asp.Net Core
 AutoMapper is a popular object-to-object mapping library that can be used to map objects belonging to dissimilar types. We might need to map the DTOs (Data Transfer Objects) in the application to the model objects. AutoMapper saves the tedious effort of having to manually map one or more properties of such incompatible types.
 
 ## Step 1. Install AutoMapper extension from Package Manager in your project
